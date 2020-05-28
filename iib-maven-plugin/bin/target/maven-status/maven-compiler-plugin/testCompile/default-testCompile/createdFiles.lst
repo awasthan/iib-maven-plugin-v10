@@ -1,0 +1,4 @@
+ch\sbb\maven\plugins\iib\mojos\ValidateConfigurablePropertiesMojoUnitTest.class
+ch\sbb\maven\plugins\iib\utils\EclipseProjectUtilsTest.class
+ch\sbb\maven\plugins\iib\mojos\CreateBarMojoUnitTest.class
+ch\sbb\maven\plugins\iib\utils\ConfigurablePropertiesUtilTest.class
